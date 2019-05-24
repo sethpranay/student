@@ -11,5 +11,5 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Parttime {
     int a=4;
-    
+    System.out.println(a);
 }
